@@ -40,7 +40,7 @@ The drv-check tool generates a JSON-formatted report for each analyzed driver. T
 ```json
 [
   {
-    "name": "C:\\Users\\Yael\\drvcheck\\7475bfea6ea1cd54029208ed59b96c6b.sys",
+    "name": "C:\\Users\\Yael\\drvcheck\\2b120de80a5462f8395cfb7153c86dfd44f29f0776ea156ec4a34fa64e5c4797.sys",
     "hash": "2b120de80a5462f8395cfb7153c86dfd44f29f0776ea156ec4a34fa64e5c4797",
     "found_imports": [
       {
@@ -77,6 +77,5 @@ The drv-check tool generates a JSON-formatted report for each analyzed driver. T
       }
     ]
   }
-  ...
 ]
 ```
